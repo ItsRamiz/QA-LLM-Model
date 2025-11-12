@@ -1,0 +1,352 @@
+[
+  {
+    "test_id": "TEST-0001",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0002",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0003",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0004",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0005",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0006",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0007",
+    "failure_type": "ConnectionRefused",
+    "error_message": "Database connection to localhost:5432 refused",
+    "last_code_change": "Changed database connection settings",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0008",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0009",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0010",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0011",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0012",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0013",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0014",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0015",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0016",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0017",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0018",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0019",
+    "failure_type": "ConnectionRefused",
+    "error_message": "Database connection to localhost:5432 refused",
+    "last_code_change": "Changed database connection settings",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0020",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0021",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0022",
+    "failure_type": "ConnectionRefused",
+    "error_message": "Database connection to localhost:5432 refused",
+    "last_code_change": "Changed database connection settings",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0023",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0024",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0025",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0026",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0027",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0028",
+    "failure_type": "ConnectionRefused",
+    "error_message": "Database connection to localhost:5432 refused",
+    "last_code_change": "Changed database connection settings",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0029",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0030",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0031",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0032",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0033",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0034",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0035",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0036",
+    "failure_type": "TimeoutError",
+    "error_message": "API request exceeded 30s limit",
+    "last_code_change": "Increased external API call frequency",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0037",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0038",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0039",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0040",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0041",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0042",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0043",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0044",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0045",
+    "failure_type": "AssertionError",
+    "error_message": "Expected status 'active' but got null",
+    "last_code_change": "Modified test assertions for new feature",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0046",
+    "failure_type": "ConnectionRefused",
+    "error_message": "Database connection to localhost:5432 refused",
+    "last_code_change": "Changed database connection settings",
+    "environment": "unit_test"
+  },
+  {
+    "test_id": "TEST-0047",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0048",
+    "failure_type": "NullPointerException",
+    "error_message": "Variable 'userToken' was null",
+    "last_code_change": "Refactored variable initialization",
+    "environment": "production"
+  },
+  {
+    "test_id": "TEST-0049",
+    "failure_type": "ConnectionRefused",
+    "error_message": "Database connection to localhost:5432 refused",
+    "last_code_change": "Changed database connection settings",
+    "environment": "staging"
+  },
+  {
+    "test_id": "TEST-0050",
+    "failure_type": "FileNotFoundError",
+    "error_message": "Required file 'config.yaml' not found",
+    "last_code_change": "Updated file paths in configuration",
+    "environment": "production"
+  }
+]

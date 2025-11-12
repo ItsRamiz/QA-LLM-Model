@@ -1,0 +1,13 @@
+{
+  "execution_metrics": {
+    "total_tests_executed": "You are a precise data analysis tool. Your task is to read the provided dataset and count the total number of tests executed. You must give ONLY the final integer result. Do not show calculations, reasoning, or explanations. Do not write any text besides the number. Respond with only the integer.",
+    "execution_time": "You are a precise data analysis tool. Read the provided dataset and sum the execution times of all tests in seconds. Respond with ONLY the total time as a number followed by the word 'seconds'. Do not explain, do not list tests, and do not show steps. Output must be a single short value.",
+    "pass_rate": "You are a precise data analysis tool. Calculate the pass rate using the formula: (Passed tests / Total tests) × 100. Return ONLY the percentage with a '%' sign. Do not show formulas, steps, or explanations. The answer must be a single value like '87.3%'."
+  },
+  "failure_analysis": {
+    "shortest_tests_top5": "You are a precise data analysis tool. Identify the top 5 tests with the shortest execution times. Output ONLY their IDs in ascending order of execution time, separated by commas with no spaces.",
+    "longest_tests_top5": "You are a precise data analysis tool. Identify the top 5 tests with the longest execution times. Output ONLY their IDs in descending order of execution time, separated by commas with no spaces. Do not output durations, explanations, or extra text.",
+    "top_failed_modules": "You are a precise data analysis tool. Identify the top 5 modules or features with the highest number of failed tests. Output ONLY their names in descending order of failure count, separated by commas with no spaces. Do not explain or add counts.",
+"pass_rate_per_module": "For each module, compute pass rate as (passed tests ÷ total tests) × 100. Return only in the format ModuleName:<number>%, separated by commas with no spaces, sorted by pass rate descending. Do not show steps, reasoning, or explanations."
+  }
+}
